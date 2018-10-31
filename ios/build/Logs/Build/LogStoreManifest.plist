@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>96939256-63A5-4D74-BABB-D8FC656D1368</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96939256-63A5-4D74-BABB-D8FC656D1368.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>mert project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mert</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project mert with scheme mert and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>562682226.86078298</real>
+			<key>timeStoppedRecording</key>
+			<real>562682229.82032096</real>
+			<key>title</key>
+			<string>Building project mert with scheme mert and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>96939256-63A5-4D74-BABB-D8FC656D1368</string>
+		</dict>
+		<key>F18A9FC4-5F25-4C75-B7A0-67B7DFA372CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F18A9FC4-5F25-4C75-B7A0-67B7DFA372CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>mert project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mert</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project mert with scheme mert and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>562671759.11285806</real>
+			<key>timeStoppedRecording</key>
+			<real>562671760.55727696</real>
+			<key>title</key>
+			<string>Building project mert with scheme mert and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F18A9FC4-5F25-4C75-B7A0-67B7DFA372CD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
